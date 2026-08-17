@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1df3d84c-b2d7-4b0b-ad1c-d3f7f3509495" name="Changes" comment="-m &quot;Day 2: initial data exploration - shape, nulls, key column">
+    <list default="true" id="1df3d84c-b2d7-4b0b-ad1c-d3f7f3509495" name="Changes" comment="git add .&#10;git commit -m &quot;Day 3: data cleaning - selected 15 columns, fixed target variable, handled nulls&quot;&#10;git push">
+      <change afterPath="$PROJECT_DIR$/notebooks/02_visualizations.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/01_data_exploration.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/01_data_exploration.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +85,7 @@
       <workItem from="1786682791601" duration="561000" />
       <workItem from="1786683487752" duration="1248000" />
       <workItem from="1786734857000" duration="1297000" />
-      <workItem from="1786929356402" duration="992000" />
+      <workItem from="1786929356402" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="-m &quot;Day 2: initial data exploration - shape, nulls, key column">
       <option name="closed" value="true" />
@@ -111,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786929388829</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git add .&#10;git commit -m &quot;Day 3: data cleaning - selected 15 columns, fixed target variable, handled nulls&quot;&#10;git push">
+      <option name="closed" value="true" />
+      <created>1786930376353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1786930376353</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +127,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-m &quot;Day 2: initial data exploration - shape, nulls, key column" />
-    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;Day 2: initial data exploration - shape, nulls, key column" />
+    <MESSAGE value="git add .&#10;git commit -m &quot;Day 3: data cleaning - selected 15 columns, fixed target variable, handled nulls&quot;&#10;git push" />
+    <option name="LAST_COMMIT_MESSAGE" value="git add .&#10;git commit -m &quot;Day 3: data cleaning - selected 15 columns, fixed target variable, handled nulls&quot;&#10;git push" />
   </component>
 </project>
