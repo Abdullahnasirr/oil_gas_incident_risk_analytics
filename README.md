@@ -10,17 +10,19 @@ Analyzed 2,024 Canadian pipeline incidents (2008–2026) from the Canada Energy 
 
 ## Project Structure
 
+```
 oil-gas-incident-risk-analytics/
 ├── data/
-│ ├── pipeline-incidents-comprehensive-data.csv # Raw CER data
-│ └── pipeline_incidents_clean.csv # Cleaned dataset (15 features)
+│   ├── pipeline-incidents-comprehensive-data.csv    # Raw CER data
+│   └── pipeline_incidents_clean.csv                 # Cleaned dataset
 ├── notebooks/
-│ ├── 01_data_exploration.ipynb # EDA and data understanding
-│ ├── 02_visualizations.ipynb # Charts and visual analysis
-│ └── 03_ml_model.ipynb # ML models and evaluation
+│   ├── 01_data_exploration.ipynb                    # EDA
+│   ├── 02_visualizations.ipynb                      # Charts
+│   └── 03_ml_model.ipynb                            # ML models
 ├── models/
-│ └── xgb_model_final.pkl # Saved XGBoost model
-└── dashboard/ # Exported charts and visuals
+│   └── xgb_model_final.pkl                          # Saved XGBoost model
+└── dashboard/                                        # Exported charts
+```
 
 ## Dataset
 **Source:** [Canada Energy Regulator — Pipeline Incident Data](https://open.canada.ca/data/en/dataset/7dffedc4-23fa-440c-a36d-adf5a6cc09f1)
