@@ -8,6 +8,24 @@ Analyzed 2,024 Canadian pipeline incidents (2008–2026) from the Canada Energy 
 - **Emergency Level, Volume Released, and Substance Type** were the strongest predictors of incident significance
 - Baseline logistic regression only caught 5% of significant incidents showing why accuracy alone isnt enough data for imbalanced safety datasets
 
+## Visualizations
+
+### Incidents Over Time
+![Incidents per Year](dashboard/incidents_per_year.png)
+
+### Top Incident Causes
+![Incidents by Cause](dashboard/incidents_by_cause.png)
+
+### Significance Rate by Cause
+![Significance Rate](dashboard/significance_by_cause.png)
+
+### Feature Importance
+![Feature Importance](dashboard/feature_importance.png)
+
+### Model Evaluation
+![Confusion Matrix](dashboard/confusion_matrix.png)
+![ROC Curve](dashboard/roc_curve.png)
+
 ## Project Structure
 
 ```
