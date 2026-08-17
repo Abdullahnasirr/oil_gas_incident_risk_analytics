@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1df3d84c-b2d7-4b0b-ad1c-d3f7f3509495" name="Changes" comment="&quot;Day 4: visualizations - incidents by year, cause, significance rate, province">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1786683487752" duration="1248000" />
       <workItem from="1786734857000" duration="1297000" />
       <workItem from="1786929356402" duration="6899000" />
-      <workItem from="1786985837626" duration="1461000" />
+      <workItem from="1786985837626" duration="2875000" />
     </task>
     <task id="LOCAL-00001" summary="-m &quot;Day 2: initial data exploration - shape, nulls, key column">
       <option name="closed" value="true" />

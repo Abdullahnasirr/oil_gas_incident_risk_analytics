@@ -26,6 +26,10 @@ Analyzed 2,024 Canadian pipeline incidents (2008–2026) from the Canada Energy 
 ![Confusion Matrix](dashboard/confusion_matrix.png)
 ![ROC Curve](dashboard/roc_curve.png)
 
+## Power BI Dashboard
+![Power BI Dashboard](dashboard/dashboard_screenshot.png)
+
+
 ## Project Structure
 
 ```
