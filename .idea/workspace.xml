@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1df3d84c-b2d7-4b0b-ad1c-d3f7f3509495" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/notebooks/01_data_exploration.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oil &amp; gas incident risk analytics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oil &amp; gas incident risk analytics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1df3d84c-b2d7-4b0b-ad1c-d3f7f3509495" name="Changes" comment="-m &quot;Day 2: initial data exploration - shape, nulls, key column" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,11 +81,24 @@
       <workItem from="1786682514402" duration="78000" />
       <workItem from="1786682791601" duration="561000" />
       <workItem from="1786683487752" duration="1248000" />
-      <workItem from="1786734857000" duration="1186000" />
+      <workItem from="1786734857000" duration="1297000" />
     </task>
+    <task id="LOCAL-00001" summary="-m &quot;Day 2: initial data exploration - shape, nulls, key column">
+      <option name="closed" value="true" />
+      <created>1786736059867</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786736059867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="-m &quot;Day 2: initial data exploration - shape, nulls, key column" />
+    <option name="LAST_COMMIT_MESSAGE" value="-m &quot;Day 2: initial data exploration - shape, nulls, key column" />
   </component>
 </project>
